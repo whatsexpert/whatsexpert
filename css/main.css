@@ -23325,10 +23325,10 @@ p {
 }
 
 .landing-2 .hero-area {
-  background: url(https://whats.expert/wp-content/uploads/2020/03/businesman-hero-section-1-1-1-1.jpg) no-repeat;
+  background: url() no-repeat;
   background-size: cover;
   background-position: bottom left;
-  background-color: #dbdbdb;
+  background-color: #fff;
 }
 
 @media (min-width: 992px) {
@@ -23371,7 +23371,7 @@ p {
 .landing-2 .hero-content p {
   color: #696871;
   font-family: "CircularStd", sans-serif;
-  font-size: 21px;
+  font-size: 2px;
   font-weight: 300;
   letter-spacing: -0.66px;
   line-height: 39px;
@@ -23427,7 +23427,7 @@ p {
 
 .landing-2 .hero-img-group .abs-img.img-1 img {
   box-shadow: 0 52px 54px rgba(65, 62, 101, 0.3);
-  border: 10px solid #FFFFFF;
+  /* border: 10px solid #FFFFFF; */
   background-color: #FFFFFF;
   border-radius: 500px;
 }
@@ -23794,7 +23794,7 @@ p {
   left: -3%;
   z-index: 2;
   box-shadow: 0 52px 54px rgba(65, 62, 101, 0.3);
-  border: 10px solid #ffffff;
+  /* border: 10px solid #ffffff; */
   background-color: #ffffff;
   border-radius: 500px;
   max-width: 50%;
