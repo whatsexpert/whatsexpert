@@ -425,7 +425,7 @@ input[type="number"] {
   left: 0;
   right: 0;
   bottom: 0;
-  background: #5454D4;
+  background: #000000;
   z-index: 99999;
 }
 
@@ -453,8 +453,8 @@ input[type="number"] {
   height: 46px;
   margin: 1px;
   border-radius: 50%;
-  border: 5px solid #ffffff;
-  border-color: #ffffff transparent #ffffff transparent;
+  border: 5px solid #24d366;
+  border-color: #24d366 transparent #24d366 transparent;
   -webkit-animation: lds-dual-ring 1.2s linear infinite;
           animation: lds-dual-ring 1.2s linear infinite;
 }

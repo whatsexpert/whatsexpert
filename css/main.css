@@ -22102,7 +22102,7 @@ p {
     border: 1px solid #eae9f2;
     background-color: #ffffff;
     display: block;
-    border-top: 3px solid #5454d4;
+    border-top: 3px solid #000000;
   }
 }
 
@@ -22118,7 +22118,7 @@ p {
 }
 
 .menu-dropdown > .drop-menu-item:hover > a {
-  color: #5454d4;
+  color: #000000;
 }
 
 .menu-dropdown > .drop-menu-item.dropdown {
@@ -22243,7 +22243,7 @@ p {
   font-size: 21px;
   font-weight: 500;
   letter-spacing: -0.66px;
-  background-color: #5454d4;
+  background-color: #000000;
 }
 
 .landing-1 .image-card {
@@ -22292,7 +22292,7 @@ p {
 }
 
 .landing-1 .image-card.card-blue {
-  background-color: #5454d4;
+  background-color: #000000;
 }
 
 .landing-1 .image-card.card-blue .card-icon {
@@ -22304,7 +22304,7 @@ p {
 }
 
 .landing-1 .image-card.card-yellow .card-icon {
-  background-color: #5454d4;
+  background-color: #000000;
 }
 
 .landing-1 .image-card.card-yellow p {
@@ -22325,7 +22325,7 @@ p {
 }
 
 .landing-1 .image-card-2 .card-icon {
-  background-color: #5454d4;
+  background-color: #000000;
   min-width: 31px;
   max-width: 31px;
   min-height: 31px;
@@ -22439,7 +22439,7 @@ p {
 }
 
 .landing-1 .hero-content .video-link {
-  color: #5454d4;
+  color: #000000;
   font-family: "CircularStd", sans-serif;
   font-size: 16px;
   font-weight: 500;
@@ -22668,7 +22668,7 @@ p {
 }
 
 .landing-1 .feature-section {
-  background: #5454d4;
+  background: #000000;
   position: relative;
 }
 
@@ -22736,7 +22736,7 @@ p {
 
 .landing-1 .feature-card .card-icon.blue {
   background-color: rgba(84, 84, 212, 0.1);
-  color: #5454d4;
+  color: #000000;
 }
 
 .landing-1 .feature-card .card-icon.ash {
@@ -22817,7 +22817,7 @@ p {
 
 .landing-1 .content-widget .widget-icon.blue {
   background-color: rgba(84, 84, 212, 0.1);
-  color: #5454d4;
+  color: #000000;
 }
 
 .landing-1 .content-widget .widget-icon.ash {
@@ -23087,7 +23087,7 @@ p {
 
 .landing-1 .testimonial-card .card-top-area .review-media i {
   font-size: 27px;
-  color: #5454d4;
+  color: #000000;
 }
 
 .landing-1 .testimonial-card .review-text {
@@ -23100,7 +23100,7 @@ p {
 }
 
 .landing-1 .testimonial-card .review-text .secondary-text {
-  color: #5454d4;
+  color: #000000;
   font-family: "CircularStd", sans-serif;
   font-size: 21px;
   font-weight: 300;
@@ -23109,7 +23109,7 @@ p {
 }
 
 .landing-1 .testimonial-link {
-  color: #5454D4;
+  color: #000000;
   font-family: "CircularStd", sans-serif;
   font-size: 16px;
   font-weight: 500;
@@ -23237,7 +23237,7 @@ p {
 }
 
 .landing-1 .copyright-area .social-icons li a:hover {
-  color: #5454d4;
+  color: #000000;
 }
 
 /*==== 4.Landing 2 -------*/
@@ -23958,7 +23958,7 @@ p {
   width: 45px;
   height: 8px;
   border-radius: 4px;
-  background: #5454d4;
+  background: #000000;
 }
 
 .landing-2 .testimonial-card {
@@ -24130,12 +24130,12 @@ p {
 
 @media (min-width: 768px) {
   .landing-2 .footer-list a:hover {
-    color: #5454d4;
+    color: #000000;
   }
 }
 
 .landing-2 .footer-list.contact-list a {
-  color: #5454D4;
+  color: #000000;
 }
 
 .landing-2 .social-icons {
@@ -24255,7 +24255,7 @@ p {
   font-size: 21px;
   font-weight: 500;
   letter-spacing: -0.66px;
-  background-color: #5454d4;
+  background-color: #000000;
 }
 
 .landing-3 .main-menu .menu-dropdown .single-item a p {
@@ -24492,7 +24492,7 @@ p {
 
 .landing-3 .hero-form .nice-select:focus {
   box-shadow: none;
-  outline: #5454d4;
+  outline: #000000;
 }
 
 .landing-3 .hero-form .nice-select .list {
@@ -24524,7 +24524,7 @@ p {
 
 .landing-3 .feature-section .video-image a {
   font-size: 22px;
-  background-color: #5454D4;
+  background-color: #000000;
   border-radius: 500px;
   display: -webkit-inline-box;
   display: inline-flex;
@@ -24632,7 +24632,7 @@ p {
 .landing-3 .content-badge {
   height: 32px;
   border-radius: 5px;
-  background-color: #5454d4;
+  background-color: #000000;
   color: #fff;
   display: -webkit-inline-box;
   display: inline-flex;
@@ -24820,7 +24820,7 @@ p {
 
 @media (min-width: 768px) {
   .landing-3 .footer-list a:hover {
-    color: #5454d4;
+    color: #000000;
   }
 }
 
@@ -24929,7 +24929,7 @@ p {
 }
 
 .landing-4 .hero-area {
-  background: #5454d4;
+  background: #000000;
 }
 
 .landing-4 .hero-area .hero-image {
@@ -25171,7 +25171,7 @@ p {
 
 .landing-4 .content-widget .widget-icon.blue {
   background-color: rgba(84, 84, 212, 0.1);
-  color: #5454d4;
+  color: #000000;
 }
 
 .landing-4 .content-widget .widget-icon.green {
@@ -25223,7 +25223,7 @@ p {
 }
 
 .landing-4 .content-section4 {
-  background: #5454d4;
+  background: #000000;
   position: relative;
   overflow: hidden;
   padding-top: 73px;
@@ -25335,7 +25335,7 @@ p {
   width: 45px;
   height: 8px;
   border-radius: 4px;
-  background: #5454d4;
+  background: #000000;
 }
 
 .landing-4 .testimonial-card {
@@ -25394,7 +25394,7 @@ p {
 .landing-4 .cta-section {
   padding-top: 90px;
   padding-bottom: 85px;
-  background-color: #5454d4;
+  background-color: #000000;
   color: #fff;
 }
 
@@ -25452,7 +25452,7 @@ p {
 
 @media (min-width: 768px) {
   .landing-4 .footer-list a:hover {
-    color: #5454d4;
+    color: #000000;
   }
 }
 
@@ -25881,7 +25881,7 @@ p {
   -webkit-box-pack: center;
           justify-content: center;
   border-radius: 500px;
-  color: #5454d4;
+  color: #000000;
   position: relative;
   top: 9px;
   margin-right: 13px;
@@ -26099,7 +26099,7 @@ p {
   display: -webkit-box;
   display: flex;
   width: 65px;
-  background: #5454d4;
+  background: #000000;
   -webkit-transition: .4s;
   transition: .4s;
   border-radius: 500px;
@@ -26114,7 +26114,7 @@ p {
 }
 
 .landing-5 .testimonial-slider-l5 .slick-arrow:hover:after {
-  color: #5454d4;
+  color: #000000;
 }
 
 .landing-5 .testimonial-slider-l5 .slick-arrow:after {
@@ -26300,7 +26300,7 @@ p {
 }
 
 .landing-5 .single-fact .title {
-  color: #5454d4;
+  color: #000000;
   font-size: 60px;
   font-weight: 700;
   letter-spacing: -1.88px;
@@ -26423,7 +26423,7 @@ p {
 }
 
 .landing-5 .pricing-wrapper .pricing-btn .toggle-btn.clicked {
-  background: #5454d4;
+  background: #000000;
 }
 
 .landing-5 .pricing-wrapper .pricing-btn .toggle-btn.clicked span {
@@ -26442,7 +26442,7 @@ p {
 }
 
 .landing-5 .pricing-card .price-content .small-title {
-  color: #5454d4;
+  color: #000000;
   font-size: 16px;
   font-weight: 300;
   letter-spacing: -0.5px;
@@ -26518,7 +26518,7 @@ p {
   -webkit-box-pack: center;
           justify-content: center;
   border-radius: 500px;
-  color: #5454d4;
+  color: #000000;
   position: relative;
   top: 9px;
   margin-right: 13px;
@@ -26528,7 +26528,7 @@ p {
   padding-top: 18px;
   padding-bottom: 22px;
   border-radius: 0 0 10px 10px;
-  background-color: #5454d4;
+  background-color: #000000;
   color: #fff;
   font-size: 21px;
   font-weight: 500;
@@ -26587,7 +26587,7 @@ p {
   min-height: 30px;
   max-height: 30px;
   font-size: 15px;
-  background-color: #5454d4;
+  background-color: #000000;
   color: #fff;
   display: -webkit-inline-box;
   display: inline-flex;
@@ -26713,12 +26713,12 @@ p {
 
 @media (min-width: 768px) {
   .landing-5 .footer-list a:hover {
-    color: #5454d4;
+    color: #000000;
   }
 }
 
 .landing-5 .footer-list.contact-list a {
-  color: #5454D4;
+  color: #000000;
 }
 
 .landing-5 .social-icons {
@@ -26958,7 +26958,7 @@ p {
   -webkit-transform: translateY(-50%);
           transform: translateY(-50%);
   right: 15px;
-  color: #5454d4;
+  color: #000000;
   font-family: "CircularStd", sans-serif;
   font-size: 16px;
   font-weight: 300;
@@ -26979,7 +26979,7 @@ p {
   content: "\f14a";
   font-family: "Font Awesome 5 free";
   font-weight: 900;
-  color: #5454d4;
+  color: #000000;
 }
 
 .omega-form .form-check-label label .checkbox {
@@ -27013,7 +27013,7 @@ p {
 }
 
 .omega-form .form-check-label label p a {
-  color: #5454d4;
+  color: #000000;
 }
 
 .omega-form .button-block {
@@ -27043,7 +27043,7 @@ p {
 }
 
 .omega-form .button-block .sign-up-text a {
-  color: #5454d4;
+  color: #000000;
   margin-left: 4px;
 }
 
@@ -27343,7 +27343,7 @@ p {
 }
 
 .about-page .copyright-area .social-icons li a:hover {
-  color: #5454d4;
+  color: #000000;
 }
 
 .about-page .cta-section {
@@ -27455,7 +27455,7 @@ p {
 }
 
 .about-page .copyright-area .social-icons li a:hover {
-  color: #5454d4;
+  color: #000000;
 }
 
 /*==== 10.Career Details -------*/
@@ -27542,7 +27542,7 @@ p {
 }
 
 .career-details-page .copyright-area .social-icons li a:hover {
-  color: #5454d4;
+  color: #000000;
 }
 
 .job-details-content {
@@ -27657,7 +27657,7 @@ p {
 
 .job-details-content .job-top-header .badge.purple {
   background-color: rgba(84, 84, 212, 0.15);
-  color: #5454d4;
+  color: #000000;
 }
 
 .job-details-content .contant-block-1 .main-title {
@@ -27845,7 +27845,7 @@ p {
 
 .career-page .card-job .badge.blue {
   background-color: rgba(84, 84, 212, 0.15);
-  color: #5454d4;
+  color: #000000;
 }
 
 .career-page .card-job:hover {
@@ -27983,7 +27983,7 @@ p {
 }
 
 .career-page .circle-bg-blue {
-  background: #5454d4;
+  background: #000000;
 }
 
 .career-page .circle-bg-blue.outer-circle {
@@ -28167,7 +28167,7 @@ p {
 
 .career-page .video-area .video-image a {
   font-size: 22px;
-  background-color: #5454D4;
+  background-color: #000000;
   border-radius: 500px;
   display: -webkit-inline-box;
   display: inline-flex;
@@ -28258,7 +28258,7 @@ p {
 }
 
 .career-page .copyright-area .social-icons li a:hover {
-  color: #5454d4;
+  color: #000000;
 }
 
 /*==== 12.Case Study -------*/
@@ -28554,7 +28554,7 @@ p {
 }
 
 .case-study-page .copyright-area .social-icons li a:hover {
-  color: #5454d4;
+  color: #000000;
 }
 
 .case-study-page.case-study-details .case-study-details-section {
@@ -28725,7 +28725,7 @@ p {
 }
 
 .pricing-page .pricing-btns a.active {
-  background-color: #5454d4;
+  background-color: #000000;
   color: #fff;
 }
 
@@ -28788,7 +28788,7 @@ p {
   border-radius: 10px;
   border: 1px solid #eae9f2;
   background-color: #ffffff;
-  color: #5454d4;
+  color: #000000;
   font-size: 21px;
   font-weight: 500;
   letter-spacing: -0.66px;
@@ -28983,7 +28983,7 @@ p {
 }
 
 .pricing-page .copyright-area .social-icons li a:hover {
-  color: #5454d4;
+  color: #000000;
 }
 
 .pricing-page-2 .site-header {
@@ -29159,7 +29159,7 @@ p {
   border-radius: 5px;
   border: 1px solid #eae9f2;
   background-color: #ffffff;
-  color: #5454d4;
+  color: #000000;
   font-size: 18px;
   font-weight: 500;
   letter-spacing: -0.56px;
@@ -29524,8 +29524,8 @@ p {
 }
 
 .blog-page .omega-blog-pagination .pagination-list li:hover {
-  border: 1px solid #5454d4;
-  background-color: #5454d4;
+  border: 1px solid #000000;
+  background-color: #000000;
   color: #fff;
 }
 
@@ -29647,7 +29647,7 @@ p {
 }
 
 .blog-page .copyright-area .social-icons li a:hover {
-  color: #5454d4;
+  color: #000000;
 }
 
 .blog-page.blog-details .page-banner {
@@ -29689,7 +29689,7 @@ p {
 .blog-page.blog-details .page-banner .banner-content p .bullet {
   width: 10px;
   height: 10px;
-  background-color: #5454d4;
+  background-color: #000000;
   border-radius: 500px;
   margin: 0 18px;
 }
@@ -30163,7 +30163,7 @@ p {
 }
 
 .contact-page .copyright-area .social-icons li a:hover {
-  color: #5454d4;
+  color: #000000;
 }
 
 /*==== 16.Thank You -------*/
@@ -30190,7 +30190,7 @@ p {
 .thank-page .thank-page-main .contents .content-icon {
   width: 118px;
   height: 118px;
-  background-color: #5454d4;
+  background-color: #000000;
   border-radius: 500px;
   display: -webkit-inline-box;
   display: inline-flex;
@@ -30314,7 +30314,7 @@ p {
 }
 
 .thank-page .copyright-area .social-icons li a:hover {
-  color: #5454d4;
+  color: #000000;
 }
 
 /*==== 17.404 -------*/
@@ -30465,7 +30465,7 @@ p {
 }
 
 .error-page .copyright-area .social-icons li a:hover {
-  color: #5454d4;
+  color: #000000;
 }
 
 /*==== 18.Terms page -------*/
@@ -30587,7 +30587,7 @@ p {
 }
 
 .terms-page .copyright-area .social-icons li a:hover {
-  color: #5454d4;
+  color: #000000;
 }
 
 /*# sourceMappingURL=maps/main.css.map */
